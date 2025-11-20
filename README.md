@@ -12,4 +12,4 @@ Input për të ndryshuar qytetin
 Async/await dhe error handling me try/catch
 Dizajn modern dhe responsive për mobile 
 
-![Screenshot(https://github.com/Rinesamerovci/WeatherApp/blob/main/screenshot.jpeg)
+![WeatherApp Screenshot](https://github.com/Rinesamerovci/WeatherApp/blob/main/screenshot.jpeg)
